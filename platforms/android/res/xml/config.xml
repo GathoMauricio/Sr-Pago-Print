@@ -6,7 +6,7 @@
         <param name="onload" value="true" />
     </feature>
     <allow-intent href="market:*" />
-    <name>SrPagoPrintnt</name>
+    <name>SrPagoPrint</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
@@ -15,6 +15,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <icon src=""/>
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
